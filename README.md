@@ -22,7 +22,7 @@ To run the Otaku Engine project, follow these steps:
 1. Clone the repository:
 
 ```
-git clone [https://github.com/your-username/otaku-engine.git](https://github.com/your-username/otaku-engine.git)
+git clone [https://github.com/kaifshaikhhhh/otaku-engine.git](https://github.com/kaifshaikhhhh/otaku-engine.git)
 cd otaku-engine
 ```
 
