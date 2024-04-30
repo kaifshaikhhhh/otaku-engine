@@ -1,5 +1,7 @@
 # Otaku Engine
 
+![GitHub License](https://img.shields.io/github/license/kaifshaikhhhh/otaku-engine)
+
 ![table](https://wallpapercave.com/wp/wp5257135.jpg)
 
 Otaku Engine is a content recommendation system for anime enthusiasts. It leverages machine learning techniques to provide personalized anime recommendations based on user interactions and ratings.
